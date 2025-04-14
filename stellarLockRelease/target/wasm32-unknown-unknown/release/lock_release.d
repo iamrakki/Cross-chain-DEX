@@ -1,0 +1,1 @@
+/Users/rohansingh/Projects/zkCrossDEX-Stellar/stellarLockRelease/target/wasm32-unknown-unknown/release/lock_release.wasm: /Users/rohansingh/Projects/zkCrossDEX-Stellar/stellarLockRelease/contracts/lock_release/src/lib.rs
